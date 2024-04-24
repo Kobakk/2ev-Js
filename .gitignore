@@ -1,3 +1,5 @@
+#images
+static/images*
 # Logs
 logs
 *.log
