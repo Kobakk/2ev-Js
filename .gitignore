@@ -1,5 +1,6 @@
 #images
 /frontend/app/assets*
+/backend/static/images*
 # Logs
 logs
 *.log
